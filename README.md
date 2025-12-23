@@ -13,9 +13,9 @@ Bring new life to older projects.
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,powershell,vscode,eclipse,git,github,gitlab,visualstudio,windows,linux,ubuntu"
+</p>
 
- </p>
-# Other Links
+## Other Links
 
 <a href="www.linkedin.com/in/juanespaz"><img src="Assets/linkedin.png" height="40" align="middle"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
