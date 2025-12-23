@@ -17,7 +17,7 @@ Bring new life to older projects.
 
 ## Other Links
 
-<a href="www.linkedin.com/in/juanespaz"><img src="Assets/linkedin.png" height="40" align="middle"></a>
+<a href="www.linkedin.com/in/juanespaz"><img src="Assets/LinkedIn.png" height="40" align="middle"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackster.io/juanespj"><img src="Assets/Hackster.png" height="40" align="middle"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
