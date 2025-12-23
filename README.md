@@ -1,13 +1,15 @@
 # Hi there I'm Juanes!
+
 from 🇪🇨 Quito,Ecuador currently living in 🇮🇪 Ireland,Dublin
 
 Embedded Software Engineer with a Mechanica and Electrical engiineering background.
 
-# Articles
+## Articles
+
 - 23-12-2025 [Embedded C + Rust PSoC4 Cortex M0](https://medium.com/@juanespaz/embedded-rust-integration-to-existing-c-code-and-projects-part-1-844ee4e39dd9)
 Bring new life to older projects.
 
-## 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀
+## 🚀 Languages - Frameworks - Tools - Libraries - Workspace
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,powershell,vscode,eclipse,git,github,gitlab,visualstudio,windows,linux,ubuntu"
