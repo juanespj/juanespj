@@ -9,6 +9,14 @@ Embedded Software Engineer with a Mechanica and Electrical engiineering backgrou
 - 23-12-2025 [Embedded C + Rust PSoC4 Cortex M0](https://medium.com/@juanespaz/embedded-rust-integration-to-existing-c-code-and-projects-part-1-844ee4e39dd9)
 Bring new life to older projects.
 
+### 🌱 I’m currently learning ...
+- [Embassy Rust Embedded Framework](https://embassy.dev/)
+- [Zephyr](https://www.zephyrproject.org/)
+- Arm Cortex-R
+- STM32 Lora WAN
+- Rust No_Std
+- Renode / QEMU
+
 ## 🚀 Languages - Frameworks - Tools - Libraries - Workspace
 
 <p align="center">
@@ -29,7 +37,7 @@ Bring new life to older projects.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
